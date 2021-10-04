@@ -5,10 +5,13 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1 {
   color: #29339B;
+  font-size: 40px;
+  
 }
 
 
@@ -21,13 +24,13 @@ sub {
   color: black;
   font-family: verdana;
   font-size: 90%;
-  width: 0;
+  
 }
 
 .image {
-  
-  padding: 0px;
-  border: 3px groove black;
+
+  border: 3px groove #1A936F;
+
 }
 
 .button {
