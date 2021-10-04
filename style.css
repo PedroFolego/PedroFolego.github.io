@@ -1,0 +1,26 @@
+h1 h2 h3 h4 h5 h6 {
+  color: black;
+
+}
+p {
+  color: rgb(0, 0, 0);
+  font-family: verdana;
+  font-size: 110%;
+}
+sub {
+  color: black;
+  font-family: verdana;
+  font-size: 90%;
+}
+body {
+  text-align: center;
+  background-color: cornflowerblue;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.image {
+  
+  padding: 200px;
+  border: 20px black;
+}
