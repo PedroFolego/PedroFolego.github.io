@@ -9,9 +9,10 @@ h1 {
   background-color: #283618;
   color: #dda15e;
   font-size: 40px;
+  border-radius: 50px;
   
 }
-h4{ 
+.stylebutton{ 
 
   width: fit-content;
   color: #540b0e;
@@ -20,7 +21,8 @@ h4{
   padding: 10px;
   border-radius: 100px;
   margin: 10px;
-}
+  text-decoration: none;
+  }
 
 
 p {
@@ -36,16 +38,16 @@ sub {
 }
 
 ul {
-  width: fit-content;
   font-size: 16px;
-  margin: 0%;
   border: 2px solid black;
 }
+
 
 .image {
 
   border: 3px groove #1A936F;
   margin-bottom: 0%;
+  width: 200px;
 
 }
 
