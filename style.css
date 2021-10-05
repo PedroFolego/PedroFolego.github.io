@@ -1,40 +1,54 @@
 
 body {
   text-align: center;
-  background-color: #6699CC;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-color: #fefae0;
   font-family: 'Poppins', sans-serif;
 }
 
 h1 {
-  color: #29339B;
+  background-color: #283618;
+  color: #dda15e;
   font-size: 40px;
   
+}
+h4{ 
+
+  width: fit-content;
+  color: #540b0e;
+  background-color: #e09f3e ;
+  
+  padding: 10px;
+  border-radius: 100px;
+  margin: 10px;
 }
 
 
 p {
   color: #000807;
-  font-family: verdana;
-  font-size: 110%;
+  font-size: 16px;
+  
 }
 sub {
   color: black;
-  font-family: verdana;
-  font-size: 90%;
+  font-size: 80%;
+  margin: 0%;
   
+}
+
+ul {
+  width: fit-content;
+  font-size: 16px;
+  margin: 0%;
+  border: 2px solid black;
 }
 
 .image {
 
   border: 3px groove #1A936F;
+  margin-bottom: 0%;
 
 }
 
 .button {
-  padding: 20px;
-  border: thick groove black;
-  margin: 20px;
+  text-decoration: none;
 }
