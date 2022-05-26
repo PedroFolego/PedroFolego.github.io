@@ -2,7 +2,10 @@ import React from 'react';
 
 function Header() {
   return (
-    <h1>Ola povo</h1>
+    <header>
+      <h3>Contato</h3>
+      <h3>Projetos</h3>
+    </header>
   );
 }
 
